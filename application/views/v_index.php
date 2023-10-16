@@ -37,7 +37,7 @@ intruksi.</p>
 <p align='justify'>Dari penjelasan tentang model view dan controller 
 di atas dapat di simpulkan bahwa controller sebagai penghubung view
 dan model. Misalnya pada aplikasi yang menampilkan data dengan 
-menggunakan metode konsep mvc, controller memanggil intruksi pada 
+menggunakan metode konsep mvc, Controller memanggil intruksi pada 
 model yang mengambil data pada database, kemudian controller yang 
 meneruskannya pada view untuk di tampilkan. Jadi jelas sudah dan 
 sangat mudah dalam pengembangan aplikasi dengan cara mvc ini karena 

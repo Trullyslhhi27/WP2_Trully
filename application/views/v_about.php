@@ -16,7 +16,7 @@
         <li>Raya Timuran</li>
     </ul>
 
-    <h4>Olah Raga Favorit</h4>
+    <h4>OlahRaga Favorit</h4>
     <ul type="square">
         <li>SepakBola</li>
         <li>Berenang</li>
