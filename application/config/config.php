@@ -135,7 +135,7 @@ $config['subclass_prefix'] = 'MY_';
 |
 | For more information about Composer, please visit http://getcomposer.org/
 |
-| Note: This will NOT disable or override the CodeIgniter-specific
+| Note:This will NOT disable or override the CodeIgniter-specific
 |	autoloading (application/config/autoload.php)
 */
 $config['composer_autoload'] = FALSE;
