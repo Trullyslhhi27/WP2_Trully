@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Form Input Matakuliah</title>
+    <title>Form Input Mata Kuliah</title>
 </head>
 
 <body>
