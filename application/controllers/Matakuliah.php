@@ -13,7 +13,7 @@ class Matakuliah extends CI_Controller
     {
         $data = [
             'kode' => $this->input->post('kode'),
-            'nama' => $this->input->post('nama'),
+            'nama' => $this->input->post('Nama'),
             'sks' => $this->input->post('sks'),
         ];
 
