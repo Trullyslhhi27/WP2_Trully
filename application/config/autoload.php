@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
 | -------------------------------------------------------------------
@@ -58,7 +58,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array('form_validation', 'session','database');
+$autoload['libraries'] = array('form_validation', 'session', 'database');
 
 /*
 | -------------------------------------------------------------------
@@ -73,7 +73,7 @@ $autoload['libraries'] = array('form_validation', 'session','database');
 |
 |	$autoload['drivers'] = array('cache');
 |
-| You can also supply an alternative property name to be assigned in
+| You can also supply an alternativee property name to be assigned in
 | the controller:
 |
 |	$autoload['drivers'] = array('cache' => 'cch');
@@ -89,7 +89,7 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
-$autoload['helper'] = array('url');
+$autoload['helper'] = array('url', 'file', 'pustaka');
 
 /*
 | -------------------------------------------------------------------
@@ -132,4 +132,4 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
-$autoload['model'] = array('ModelUser', 'ModelBuku');
+$autoload['model'] = array('Modeluser', 'ModelBuku');
